@@ -9,7 +9,7 @@ class MyButton extends StatefulWidget {
 class _MyButtonState extends State<MyButton> {
   String flutterText = "";
   int index = 0;
-  List<String> collections = ['Salim', 'es', 'Dios'];
+  List<String> collections = ['Salim', 'es', 'Flutter Lover'];
 
   void onPressedButton() {
     setState(() {
