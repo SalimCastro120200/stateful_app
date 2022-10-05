@@ -1,16 +1,34 @@
-# stateful_app
+# Stateful App
 
-A new Flutter project.
+Creación de Aplicación de tipo Stateful, creando un botón el cual es interactivo permitiendonos cambiar el mensaje el cual tiene 3 variantes. 
+## Screenshots
 
-## Getting Started
+<p align="center">
+<img src="https://github.com/SalimCastro120200/stateful_app/blob/master/screenshots/uno.jpeg" width="30%"/></p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Las siguientes capturas se puede ver el mensaje que se cambio gracias a un arreglo el cual esta compuesto de "Salim", "es", "Flutter Lover"
+<p>
+<img src="https://github.com/SalimCastro120200/stateful_app/blob/master/screenshots/dos.jpeg" width="30%"/>
+<img src="https://github.com/SalimCastro120200/stateful_app/blob/master/screenshots/tres.jpeg" width="30%"/>
+<img src="https://github.com/SalimCastro120200/stateful_app/blob/master/screenshots/cuatro.jpeg" width="30%"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Datos de la asignatura 
+
+
+* Nombre de la Materia - Desarrollo Móvil Integral
+* Cuatrimestre - Decimo 
+* Nombre de la Carrera - Ingeniería en Desarrollo y Gestión de Software
+* Nombre del Docente - M.T.I. Marco Antonio Ramírez Hernández
+* Periodo - Septiembre - Diciembre
+
+
+
+
+## Elaborado por:
+
+
+* Salim Rafael Castro Ortiz  ||  180017
